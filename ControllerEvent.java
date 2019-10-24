@@ -1,0 +1,6 @@
+public enum ControllerEvent{
+	AUTO_REMOVE,
+	AUTO_ADDED,
+	CLEAR_REGISTRATION,
+	AUTO_ALREADY_EXISTS
+}

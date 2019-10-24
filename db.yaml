@@ -1,0 +1,148 @@
+{
+  AAA-1111: !!Auto {
+    ano: 2016,
+    capacidade: 216.0,
+    curr: 1,
+    fabricante: Ford,
+    modelo: ModelX,
+    odometro: 50.0,
+    placa: AAA-1111,
+    series: [
+      {
+        abast: [
+          {
+            ano: 2000,
+            comb: Alcool,
+            custoT: 6.0,
+            dia: 1,
+            mes: 2,
+            odo: 4.0,
+            porLitro: 7.0,
+            quant: 5.0
+          },
+          {
+            ano: 2000,
+            comb: Alcool,
+            custoT: 2.0,
+            dia: 5,
+            mes: 6,
+            odo: 4.0,
+            porLitro: 1.0,
+            quant: 3.0
+          }]
+        ,
+        curr: 2
+      }]
+    
+  },
+  BBB-2222: !!Auto {
+    ano: 2015,
+    capacidade: 150.0,
+    curr: 0,
+    fabricante: NomeItalianoAleatorio,
+    modelo: ModelY,
+    odometro: 20.0,
+    placa: BBB-2222,
+    series: [
+      ]
+  },
+  CCC-3333: !!Auto {
+    ano: 2009,
+    capacidade: 210.0,
+    curr: 0,
+    fabricante: Mitsubishi,
+    modelo: ModelZ,
+    odometro: 9.0,
+    placa: CCC-3333,
+    series: [
+      ]
+  },
+  DDD-4444: !!Auto {
+    ano: 2015,
+    capacidade: 210.0,
+    curr: 0,
+    fabricante: Fab,
+    modelo: ModeloZZ,
+    odometro: 200.0,
+    placa: DDD-4444,
+    series: [
+      ]
+  },
+  EEE-5555: !!Auto {
+    ano: 2012,
+    capacidade: 220.0,
+    curr: 0,
+    fabricante: Ford,
+    modelo: ModelWE,
+    odometro: 32.0,
+    placa: EEE-5555,
+    series: [
+      ]
+  },
+  w: !!Auto {
+    ano: 2015,
+    capacidade: 23.0,
+    curr: 0,
+    fabricante: Sadz,
+    modelo: 32qqe,
+    odometro: 0.0,
+    placa: w,
+    series: [
+      ]
+  },
+  VVV-3232: !!Auto {
+    ano: 2015,
+    capacidade: 99.0,
+    curr: 0,
+    fabricante: Ford,
+    modelo: A,
+    odometro: 5.32,
+    placa: VVV-3232,
+    series: [
+      ]
+  },
+  AVD-3311: !!Auto {
+    ano: 2012,
+    capacidade: 266.0,
+    curr: 0,
+    fabricante: Mitsubishi,
+    modelo: MK32,
+    odometro: 23.0,
+    placa: AVD-3311,
+    series: [
+      ]
+  },
+  IBM-1337: !!Auto {
+    ano: 2003,
+    capacidade: 3.0,
+    curr: 0,
+    fabricante: IPW,
+    modelo: MKX-3,
+    odometro: 2.0,
+    placa: IBM-1337,
+    series: [
+      ]
+  },
+  IKV-3333: !!Auto {
+    ano: 2015,
+    capacidade: 220.0,
+    curr: 0,
+    fabricante: FDAA,
+    modelo: ChevZ,
+    odometro: 32.0,
+    placa: IKV-3333,
+    series: [
+      ]
+  },
+  VAV-5124: !!Auto {
+    ano: 2012,
+    capacidade: 220.0,
+    curr: 0,
+    fabricante: Umm,
+    modelo: ModelXXX,
+    odometro: 110.0,
+    placa: VAV-5124,
+    series: [
+      ]
+  }
+}

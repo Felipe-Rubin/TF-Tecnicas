@@ -1,0 +1,4 @@
+AutoDAOMem seria da camada de persistencia
+
+
+//o FACADE pode ter o AutoDAOMem
